@@ -8,4 +8,4 @@ A basic terminal made in Python.
 2 = cd Test
 3 = list
 ```
-Save as `.ini` file.
+Save as a `.ini` file.
